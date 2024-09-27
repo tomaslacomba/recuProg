@@ -1,0 +1,14 @@
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\bin\Debug\net6.0\RecuFinal.exe
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\bin\Debug\net6.0\RecuFinal.deps.json
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\bin\Debug\net6.0\RecuFinal.runtimeconfig.json
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\bin\Debug\net6.0\RecuFinal.dll
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\bin\Debug\net6.0\RecuFinal.pdb
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.AssemblyInfoInputs.cache
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.AssemblyInfo.cs
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.csproj.CoreCompileInputs.cache
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.dll
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\refint\RecuFinal.dll
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.pdb
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\RecuFinal.genruntimeconfig.cache
+C:\Users\tlacomba\source\repos\RecuFinal\RecuFinal\obj\Debug\net6.0\ref\RecuFinal.dll
